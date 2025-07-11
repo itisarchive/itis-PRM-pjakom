@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">pja-kom</string>
+
+    <string name="title">Products list</string>
+
+    <string name="category_smartphone">Smartphone</string>
+    <string name="category_laptop">Laptop</string>
+    <string name="category_headphone">Headphone</string>
+    <string name="category_display">Display</string>
+    <string name="category_disk">Disk</string>
+    <string name="category_mouse">Mouse</string>
+    <string name="category_keyboard">Keyboard</string>
+    <string name="cart">Cart</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="remove_all_items">Remove all items</string>
+    <string name="remove_item">Remove item</string>
+    <string name="add_item">Add item</string>
+    <string name="delete_item">Delete item</string>
+</resources>
